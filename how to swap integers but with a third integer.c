@@ -1,3 +1,4 @@
+// code to swap integer using a third integer
 #include <stdio.h>
 
 int main ()
